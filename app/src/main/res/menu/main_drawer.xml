@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/FragmetHome"
+            android:icon="@drawable/ic_home"
+            android:title="Trang chủ"/>
+        <item
+            android:id="@+id/FragmentRegister"
+            android:icon="@drawable/ic_register"
+            android:title="Đăng ký"/>
+        <item
+            android:id="@+id/FragmentInformation"
+            android:icon="@drawable/ic_news"
+            android:title="Thông tin"/>
+        <item
+            android:id="@+id/FragmentMaps"
+            android:icon="@drawable/ic_maps"
+            android:title="Bản đồ Sân"/>
+        <item
+            android:id="@+id/FragmentTime"
+            android:icon="@drawable/ic_time"
+            android:title="Thời gian"/>
+        <item
+            android:id="@+id/FragmentAbout"
+            android:icon="@drawable/ic_about"
+            android:title="About"/>
+    </group>
+</menu>

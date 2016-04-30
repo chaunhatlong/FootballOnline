@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FootballOnline</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="news_1">Từ 28/4 đến 2/5, giảm giá 10% cho tất cả bạn đặt sân trước 17h</string>
+    <string name="news_2">Để có thể phục vụ nhu cầu của các bạn tốt nhất, hiện nay sân ABC, XYZ đang được tu sửa đến 3/5, nên không thể đăng ký. Mong các bạn thông cảm</string>
+    <string name="news_3">Vào 18h, ngày 22/4/2016, tại sân Chi Lăng, có 1 bạn đánh rơi ví màu xám, trong đó có giấy chứng minh tên XXX. Ai là chủ nhân, xin liên hệ với chủ sân để lấy lại ví. Xin cảm ơn</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_google">Map</string>
+    <string name="title_activity_register_account">register_account</string>
+
+
+
+</resources>
